@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\baitapdotnet\bin\Debug\net8.0\baitapdotnet.exe
+C:\Users\Admin\source\repos\baitapdotnet\bin\Debug\net8.0\baitapdotnet.deps.json
+C:\Users\Admin\source\repos\baitapdotnet\bin\Debug\net8.0\baitapdotnet.runtimeconfig.json
+C:\Users\Admin\source\repos\baitapdotnet\bin\Debug\net8.0\baitapdotnet.dll
+C:\Users\Admin\source\repos\baitapdotnet\bin\Debug\net8.0\baitapdotnet.pdb
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.AssemblyInfo.cs
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.dll
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\refint\baitapdotnet.dll
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.pdb
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\baitapdotnet.genruntimeconfig.cache
+C:\Users\Admin\source\repos\baitapdotnet\obj\Debug\net8.0\ref\baitapdotnet.dll
