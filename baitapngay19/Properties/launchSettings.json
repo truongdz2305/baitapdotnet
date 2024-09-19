@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "baitapngay19": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

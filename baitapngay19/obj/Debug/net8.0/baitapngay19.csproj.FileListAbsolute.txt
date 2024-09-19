@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.AssemblyInfo.cs
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\baitapngay19\bin\Debug\net8.0\baitapngay19.exe
+C:\Users\Admin\source\repos\baitapngay19\bin\Debug\net8.0\baitapngay19.deps.json
+C:\Users\Admin\source\repos\baitapngay19\bin\Debug\net8.0\baitapngay19.runtimeconfig.json
+C:\Users\Admin\source\repos\baitapngay19\bin\Debug\net8.0\baitapngay19.dll
+C:\Users\Admin\source\repos\baitapngay19\bin\Debug\net8.0\baitapngay19.pdb
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.dll
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\refint\baitapngay19.dll
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.pdb
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\baitapngay19.genruntimeconfig.cache
+C:\Users\Admin\source\repos\baitapngay19\obj\Debug\net8.0\ref\baitapngay19.dll
