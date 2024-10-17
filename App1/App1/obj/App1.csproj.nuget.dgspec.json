@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj": {}
+    "E:\\baitapC#\\baitapdotnet\\App1\\App1\\App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj": {
+    "E:\\baitapC#\\baitapdotnet\\App1\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj",
+        "projectUniqueName": "E:\\baitapC#\\baitapdotnet\\App1\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj",
-        "packagesPath": "C:\\Users\\laonh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\obj\\",
+        "projectPath": "E:\\baitapC#\\baitapdotnet\\App1\\App1\\App1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\baitapC#\\baitapdotnet\\App1\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\laonh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
