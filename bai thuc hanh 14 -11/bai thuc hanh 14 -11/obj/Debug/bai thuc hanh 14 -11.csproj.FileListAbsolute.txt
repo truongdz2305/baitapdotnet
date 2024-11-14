@@ -1,0 +1,26 @@
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe.config
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.pdb
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.AssemblyReference.cache
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.MayBay.resources
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.Properties.Resources.resources
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.GenerateResource.cache
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.CoreCompileInputs.cache
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.exe
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.pdb
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.ThemMayBay.resources
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.QuanLyMayBay.resources
+D:\C#\thuc hanh 14 -11\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.SuaMayBay.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe.config
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.exe
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\bin\Debug\bai thuc hanh 14 -11.pdb
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.AssemblyReference.cache
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.MayBay.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.Properties.Resources.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.QuanLyMayBay.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.SuaMayBay.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai_thuc_hanh_14__11.ThemMayBay.resources
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.GenerateResource.cache
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.csproj.CoreCompileInputs.cache
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.exe
+E:\c\thuc hanh 14 -11 (1)\bai thuc hanh 14 -11\bai thuc hanh 14 -11\obj\Debug\bai thuc hanh 14 -11.pdb
